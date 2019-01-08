@@ -1,6 +1,5 @@
 # Learn-math-with-Cozmo v0.1
 Learning math interactively with the robot Cozmo from Anki
--
 
 ![Learn-Math-With-Cozmo](static/img/math-cozmo-screenshot-v0.1.jpg)
 
